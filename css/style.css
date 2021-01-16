@@ -9876,7 +9876,7 @@ body {
   }
   #section3 {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("/img/bg-1.jpg") center no-repeat;
+      url("../img/bg-1.jpg") center no-repeat;
     padding: 10% 10%;
   }
   #section3 .col-md-4:not(:first-child) {
